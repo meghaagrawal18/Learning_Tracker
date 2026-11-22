@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.DS_Store
+api/**/target/
+api/**/data/
+web/node_modules/
+web/.next/
+web/.env*
