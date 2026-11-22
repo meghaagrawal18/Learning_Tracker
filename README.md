@@ -1,5 +1,10 @@
 # Learning Progress Tracker
 
+## 🚀 Live Demo
+
+- Frontend: https://learning-tracker-smoky.vercel.app/login
+- Backend: https://learning-tracker-tdd2.onrender.com
+
 A small web app for tracking training progress in a cohort.
 
 - **Coordinators** sign in, manage learning activities, create candidate accounts, assign activities, reset passwords, and see cohort progress.
